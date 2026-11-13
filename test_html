@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My White Castle</title>
+    <style>
+        /* Это CSS (дизайн) */
+        body {
+            background-color: #121212; /* Темный фон */
+            color: #d4af37; /* Золотой текст */
+            font-family: 'Georgia', serif; /* Классический шрифт */
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 3em;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+        }
+        p {
+            color: #a0a0a0; /* Серый текст для абзацев */
+            font-size: 1.2em;
+            max-width: 600px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+        a {
+            color: #8b0000; /* Темно-красный цвет ссылок */
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to my Castle</h1>
+    <p>My name is Viktor. I am a future programmer. I am building my path to Canada.</p>
+    <p>Here I will share my thoughts, my code, and my dark academia aesthetic.</p>
+
+    <br>
+    <a href="https://github.com/snowy1225">My GitHub</a> | <a href="#">My Games</a>
+
+</body>
+</html>
